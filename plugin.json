@@ -1,0 +1,7 @@
+{
+  "name": "OnshapeBrowser",
+  "description": "Discover and import 3D files directly from your onshape models.",
+  "author": "MB",
+  "version": "0.0.1",
+  "supported_sdk_versions": ["8.0.0"]
+}
